@@ -13,7 +13,7 @@ d1.addEventListener("mouseover", d1func);
 d2.addEventListener("mouseover", d2func);
 d3.addEventListener("mouseover", d3func);
 d4.addEventListener("mouseover", d4func);
-d5.addEventListener("mouseover", d4func);
+d5.addEventListener("mouseover", d5func);
 
 
 function d1func() {
@@ -38,7 +38,7 @@ function d4func() {
 
 }
 
-function d4func() {
+function d5func() {
     document.getElementById("ex-title").innerHTML = "Programming Tutor"
     document.getElementById("ex-text").innerHTML = "I am currently working as a paid programming tutor. I conduct biweekly lessons with 5th graders to facilitate the discovery of programming fundamentals through block coding and Python."
 
