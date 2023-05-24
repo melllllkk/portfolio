@@ -140,6 +140,15 @@ h3 {
   padding-bottom: 9em;
 }
 
+#ex-date {
+  font-family:'Courier New', Courier, monospace;
+  font-style: italic;
+  font-weight: 600;
+  color: #b8b0b2;
+  padding-bottom: 10px;
+}
+
+
 #langul {
   color: #e9e9e9;
   list-style-type: circle;
